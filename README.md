@@ -1,2 +1,1 @@
-# crud_Typeorm-PostgreSQL
-Crud feito com NodeJS ( ExpressJS ), Typescript, TypeORM e postgreSQL.
+JWT Authentication in NodeJS project, created with Express,Typeorm and TypeScript.
